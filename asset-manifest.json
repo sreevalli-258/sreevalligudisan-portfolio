@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sreevalligudisan-portfolio/static/css/main.4fbfa981.css",
+    "main.js": "/sreevalligudisan-portfolio/static/js/main.4d2d6fbc.js",
+    "static/css/64.a5fb24a4.chunk.css": "/sreevalligudisan-portfolio/static/css/64.a5fb24a4.chunk.css",
+    "static/js/64.b92b3516.chunk.js": "/sreevalligudisan-portfolio/static/js/64.b92b3516.chunk.js",
+    "static/css/769.2211f703.chunk.css": "/sreevalligudisan-portfolio/static/css/769.2211f703.chunk.css",
+    "static/js/769.feea40a0.chunk.js": "/sreevalligudisan-portfolio/static/js/769.feea40a0.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/sreevalligudisan-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/sreevalligudisan-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/sreevalligudisan-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/sreevalligudisan-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/sreevalligudisan-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/sreevalligudisan-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/sreevalligudisan-portfolio/index.html",
+    "static/media/talksCardBack.svg": "/sreevalligudisan-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.4fbfa981.css.map": "/sreevalligudisan-portfolio/static/css/main.4fbfa981.css.map",
+    "main.4d2d6fbc.js.map": "/sreevalligudisan-portfolio/static/js/main.4d2d6fbc.js.map",
+    "64.a5fb24a4.chunk.css.map": "/sreevalligudisan-portfolio/static/css/64.a5fb24a4.chunk.css.map",
+    "64.b92b3516.chunk.js.map": "/sreevalligudisan-portfolio/static/js/64.b92b3516.chunk.js.map",
+    "769.2211f703.chunk.css.map": "/sreevalligudisan-portfolio/static/css/769.2211f703.chunk.css.map",
+    "769.feea40a0.chunk.js.map": "/sreevalligudisan-portfolio/static/js/769.feea40a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fbfa981.css",
+    "static/js/main.4d2d6fbc.js"
+  ]
+}
