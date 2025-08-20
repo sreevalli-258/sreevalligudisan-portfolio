@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sreevalligudisan-portfolio/static/css/main.4fbfa981.css",
-    "main.js": "/sreevalligudisan-portfolio/static/js/main.3e44b48c.js",
+    "main.js": "/sreevalligudisan-portfolio/static/js/main.d187d357.js",
     "static/css/64.a5fb24a4.chunk.css": "/sreevalligudisan-portfolio/static/css/64.a5fb24a4.chunk.css",
     "static/js/64.b92b3516.chunk.js": "/sreevalligudisan-portfolio/static/js/64.b92b3516.chunk.js",
     "static/css/769.2211f703.chunk.css": "/sreevalligudisan-portfolio/static/css/769.2211f703.chunk.css",
@@ -15,7 +15,7 @@
     "index.html": "/sreevalligudisan-portfolio/index.html",
     "static/media/talksCardBack.svg": "/sreevalligudisan-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.4fbfa981.css.map": "/sreevalligudisan-portfolio/static/css/main.4fbfa981.css.map",
-    "main.3e44b48c.js.map": "/sreevalligudisan-portfolio/static/js/main.3e44b48c.js.map",
+    "main.d187d357.js.map": "/sreevalligudisan-portfolio/static/js/main.d187d357.js.map",
     "64.a5fb24a4.chunk.css.map": "/sreevalligudisan-portfolio/static/css/64.a5fb24a4.chunk.css.map",
     "64.b92b3516.chunk.js.map": "/sreevalligudisan-portfolio/static/js/64.b92b3516.chunk.js.map",
     "769.2211f703.chunk.css.map": "/sreevalligudisan-portfolio/static/css/769.2211f703.chunk.css.map",
@@ -23,6 +23,6 @@
   },
   "entrypoints": [
     "static/css/main.4fbfa981.css",
-    "static/js/main.3e44b48c.js"
+    "static/js/main.d187d357.js"
   ]
 }
