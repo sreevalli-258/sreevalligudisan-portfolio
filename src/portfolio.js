@@ -12,21 +12,20 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Aditya Sure",
-  title: "Hello, I'm Aditya",
+  username: "Sree Valli Gudisan",
+  title: "Hi, I'm SreeValli",
   subTitle: emoji(
     "👋 I’m a Software Engineer specializing in Full-Stack Development and Cloud Computing ☁️. I create sleek frontends and scalable backends, turning ideas into impactful digital solutions 💼. With a strong Computer Science background 🎓 and a passion for problem-solving, I’m always ready to innovate 🚀."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1r_In65hCTrJepJG4ssEUtx-ditoP5oFc/view?usp=drive_link",
+    "https://drive.google.com/file/d/1mjGdHQSXh2DIfrM48iEgDAOwG0Dhi7aC/view?usp=drive_link",
   displayGreeting: true
 };
 
 const socialMediaLinks = {
-  github: "https://github.com/adityasure9",
-  linkedin: "https://www.linkedin.com/in/adityasure9",
-  gmail: "adityasure980@gmail.com",
-  medium: "https://medium.com/@adityvardan",
+  github: "https://github.com/sreevalli-258",
+  linkedin: "https://www.linkedin.com/in/sreevallig258/",
+  gmail: "sreevallig86@gmail.com",
   display: true
 };
 
@@ -108,17 +107,17 @@ const educationInfo = {
   display: true,
   schools: [
     {
-      schoolName: "University of Florida",
-      logo: `${process.env.PUBLIC_URL}/uflogo.png`,
-      subHeader: "Master of Science in Computer Science",
+      schoolName: "University of Alabama at Birmingham (UAB)",
+      logo: `${process.env.PUBLIC_URL}/uablogo.png`,
+      subHeader: "Master of Science in Electrical and Computer Engineering",
       duration: "August 2022 - May 2024",
-      desc: "CGPA: 3.6/4",
+      desc: "CGPA: 3.73/4",
     },
     {
-      schoolName: "Jawaharlal Nehru Technological University, Kakinada (JNTUK)",
-      logo: `${process.env.PUBLIC_URL}/Jntuk-logo.png`,
-      subHeader: "Bachelor of Technology in Computer Science and Engineering",
-      duration: "August 2018 - May 2022",
+      schoolName: "Jawaharlal Nehru Technological University, Hyderabad (JNTUH)",
+      logo: `${process.env.PUBLIC_URL}/Jntuhlogo.jpeg`,
+      subHeader: "Bachelor of Technology in Electronics and Instrumentation Engineering",
+      duration: "August 2017 - May 2021",
       desc: "CGPA: 8.2/10",
     },
   ]
@@ -148,25 +147,25 @@ const workExperiences = {
   experience: [
     {
       role: "Software Engineer",
-      company: "One Community Global",
-      companylogo: `${process.env.PUBLIC_URL}/ocg.jpg`,
-      date: "Jul 2024 - Present",
-      desc: "Contributing to a global non-profit organization by developing and maintaining a large-scale open-source project aimed at creating a sustainable future. As a lead developer, I enhanced application scalability, reliability, and user experience.",
+      company: "PremierINC",
+      companylogo: `${process.env.PUBLIC_URL}/premierlogo.jpeg`,
+      date: "June 2024 - Present",
+      desc: "Driving digital healthcare innovation by building scalable full-stack applications with Java, Spring Boot, React, and cloud platforms (Azure/AWS), including GenAI-powered chatbot features to enhance user engagement.",
       
     },
     {
-      role: "Web Developer",
-      company: "Indian Servers",
-      companylogo: `${process.env.PUBLIC_URL}/isa.png`,
+      role: "Web Developer Intern",
+      company: "JP Morgan Chase & Co.",
+      companylogo: `${process.env.PUBLIC_URL}/JpMorganLogo.png`,
       date: "Feb 2021 - Jul 2021",
-      desc: "Worked on a cutting-edge public safety Progressive Web Application (PWA), utilizing machine learning and cloud technologies to enhance public safety measures and user engagement."
+      desc: "Engineered enterprise-grade banking solutions using Java, Spring Boot, React, and Kafka; strengthened CI/CD pipelines and implemented secure authentication with OAuth2/JWT to improve reliability and compliance."
     },
     {
-      role: "Software Developer Intern (AR Focus)",
-      company: "Facebook School of Innovation",
-      companylogo: `${process.env.PUBLIC_URL}/siiff.jpg`,
+      role: "Software Engineer",
+      company: "Mphasis",
+      companylogo: `${process.env.PUBLIC_URL}/mphasislogo.png`,
       date: "Feb 2020 - Jul 2020",
-      desc: "Developed interactive AR experiences for a leading e-commerce brand, focusing on enhancing user engagement through innovative technology solutions."
+      desc: "Developed and optimized backend microservices in Java & Spring Boot, integrated REST APIs, and supported large-scale cloud migrations to AWS, boosting performance and scalability for global clients."
     }
   ]
 };
@@ -187,7 +186,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Project",
-          url: "https://github.com/OneCommunityGlobal/HighestGoodNetworkApp" // Replace with the actual URL of the project
+          url: "https://github.com/sreevalli-258/highest-good-network-v2" // Replace with the actual URL of the project
         }
       ]
     },
@@ -198,7 +197,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Project",
-          url: "https://github.com/adityasure9/Ecommerce" 
+          url: "https://github.com/sreevalli-258/ecommerce-platform" 
         }
       ]
     }
@@ -318,7 +317,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "If you need to get in touch, you can contact me here.",
-  email_address: "adityasure980@gmail.com"
+  email_address: "sreevallig86@gmail.com"
 };
 
 const twitterDetails = {

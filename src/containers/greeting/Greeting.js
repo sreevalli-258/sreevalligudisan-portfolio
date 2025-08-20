@@ -39,7 +39,7 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 <Button
                     text="View my Resume"
-                    href="https://drive.google.com/file/d/1r_In65hCTrJepJG4ssEUtx-ditoP5oFc/view?usp=drive_link"
+                    href="https://drive.google.com/file/d/1mjGdHQSXh2DIfrM48iEgDAOwG0Dhi7aC/view?usp=drive_link"
                     newTab={true}  // Opens in a new tab
                     className="download-link-button"
                     
