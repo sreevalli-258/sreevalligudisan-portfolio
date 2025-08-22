@@ -135,7 +135,7 @@ const techStack = {
       progressPercentage: "70%"
     },
     {
-      Stack: "Programming",
+      Stack: "Database",
       progressPercentage: "75%"
     }
   ],
@@ -154,17 +154,17 @@ const workExperiences = {
       
     },
     {
-      role: "Web Developer Intern",
+      role: "Software Engineer Intern",
       company: "JP Morgan Chase & Co.",
       companylogo: `${process.env.PUBLIC_URL}/JpMorganLogo.png`,
-      date: "Feb 2021 - Jul 2021",
+      date: "April 2023 - Oct 2023",
       desc: "Engineered enterprise-grade banking solutions using Java, Spring Boot, React, and Kafka; strengthened CI/CD pipelines and implemented secure authentication with OAuth2/JWT to improve reliability and compliance."
     },
     {
-      role: "Software Engineer",
+      role: "Java Developer",
       company: "Mphasis",
       companylogo: `${process.env.PUBLIC_URL}/mphasislogo.png`,
-      date: "Feb 2020 - Jul 2020",
+      date: "Aug 2020 - Aug 2022",
       desc: "Developed and optimized backend microservices in Java & Spring Boot, integrated REST APIs, and supported large-scale cloud migrations to AWS, boosting performance and scalability for global clients."
     }
   ]
